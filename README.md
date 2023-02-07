@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @archie01234567
-- 👀 I’m interested in visual art,developing and conceptualizing art style
-- 🌱 I’m currently learning  c++ ,css and 
+- 👋 Hi, I’m Archie
+- 👀 I’m interested in games
+- 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
